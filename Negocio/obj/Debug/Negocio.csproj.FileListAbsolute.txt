@@ -1,0 +1,9 @@
+C:\Users\ferna\Desktop\CURSO C# nivel2\TPFinalNivel2_Goñi\Negocio\bin\Debug\Negocio.dll
+C:\Users\ferna\Desktop\CURSO C# nivel2\TPFinalNivel2_Goñi\Negocio\bin\Debug\Negocio.pdb
+C:\Users\ferna\Desktop\CURSO C# nivel2\TPFinalNivel2_Goñi\Negocio\bin\Debug\Dominio.dll
+C:\Users\ferna\Desktop\CURSO C# nivel2\TPFinalNivel2_Goñi\Negocio\bin\Debug\Dominio.pdb
+C:\Users\ferna\Desktop\CURSO C# nivel2\TPFinalNivel2_Goñi\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\ferna\Desktop\CURSO C# nivel2\TPFinalNivel2_Goñi\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\ferna\Desktop\CURSO C# nivel2\TPFinalNivel2_Goñi\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\ferna\Desktop\CURSO C# nivel2\TPFinalNivel2_Goñi\Negocio\obj\Debug\Negocio.dll
+C:\Users\ferna\Desktop\CURSO C# nivel2\TPFinalNivel2_Goñi\Negocio\obj\Debug\Negocio.pdb

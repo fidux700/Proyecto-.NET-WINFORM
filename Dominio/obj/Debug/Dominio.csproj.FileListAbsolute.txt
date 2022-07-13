@@ -1,0 +1,6 @@
+C:\Users\ferna\Desktop\CURSO C# nivel2\TPFinalNivel2_Goñi\Dominio\bin\Debug\Dominio.dll
+C:\Users\ferna\Desktop\CURSO C# nivel2\TPFinalNivel2_Goñi\Dominio\bin\Debug\Dominio.pdb
+C:\Users\ferna\Desktop\CURSO C# nivel2\TPFinalNivel2_Goñi\Dominio\obj\Debug\Dominio.csproj.AssemblyReference.cache
+C:\Users\ferna\Desktop\CURSO C# nivel2\TPFinalNivel2_Goñi\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\ferna\Desktop\CURSO C# nivel2\TPFinalNivel2_Goñi\Dominio\obj\Debug\Dominio.dll
+C:\Users\ferna\Desktop\CURSO C# nivel2\TPFinalNivel2_Goñi\Dominio\obj\Debug\Dominio.pdb
