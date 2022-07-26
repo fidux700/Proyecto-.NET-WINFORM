@@ -49,10 +49,10 @@ namespace Negocio
                 comando.ExecuteNonQuery();
 
             }
-            catch (Exception ex)
+            catch (Exception)
             {
 
-                throw ex;
+                throw;
             }
         }
 
