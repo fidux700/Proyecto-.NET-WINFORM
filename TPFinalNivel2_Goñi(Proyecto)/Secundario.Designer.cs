@@ -103,6 +103,7 @@
             this.textBoxCodigo.BackColor = System.Drawing.Color.White;
             this.textBoxCodigo.Font = new System.Drawing.Font("Arial", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.textBoxCodigo.Location = new System.Drawing.Point(215, 45);
+            this.textBoxCodigo.MaxLength = 10;
             this.textBoxCodigo.Name = "textBoxCodigo";
             this.textBoxCodigo.Size = new System.Drawing.Size(75, 25);
             this.textBoxCodigo.TabIndex = 0;
@@ -113,6 +114,7 @@
             this.textBoxNombre.BackColor = System.Drawing.Color.White;
             this.textBoxNombre.Font = new System.Drawing.Font("Arial", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.textBoxNombre.Location = new System.Drawing.Point(215, 92);
+            this.textBoxNombre.MaxLength = 20;
             this.textBoxNombre.Name = "textBoxNombre";
             this.textBoxNombre.Size = new System.Drawing.Size(150, 25);
             this.textBoxNombre.TabIndex = 1;
@@ -122,6 +124,7 @@
             this.textBoxDescripcion.BackColor = System.Drawing.Color.White;
             this.textBoxDescripcion.Font = new System.Drawing.Font("Arial", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.textBoxDescripcion.Location = new System.Drawing.Point(215, 253);
+            this.textBoxDescripcion.MaxLength = 500;
             this.textBoxDescripcion.Multiline = true;
             this.textBoxDescripcion.Name = "textBoxDescripcion";
             this.textBoxDescripcion.ScrollBars = System.Windows.Forms.ScrollBars.Vertical;
@@ -133,6 +136,7 @@
             this.textBoxPrecio.BackColor = System.Drawing.Color.White;
             this.textBoxPrecio.Font = new System.Drawing.Font("Arial", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.textBoxPrecio.Location = new System.Drawing.Point(215, 398);
+            this.textBoxPrecio.MaxLength = 20;
             this.textBoxPrecio.Name = "textBoxPrecio";
             this.textBoxPrecio.Size = new System.Drawing.Size(150, 25);
             this.textBoxPrecio.TabIndex = 7;
@@ -210,9 +214,9 @@
             this.label4.Font = new System.Drawing.Font("Arial", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label4.Location = new System.Drawing.Point(82, 269);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(124, 22);
+            this.label4.Size = new System.Drawing.Size(124, 45);
             this.label4.TabIndex = 2;
-            this.label4.Text = "DESCRIPCION";
+            this.label4.Text = "DESCRIPCION (Max 500)";
             this.label4.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // label2

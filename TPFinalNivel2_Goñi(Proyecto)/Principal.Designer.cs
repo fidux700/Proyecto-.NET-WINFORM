@@ -28,9 +28,9 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle31 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle32 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle33 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle1 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle2 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle3 = new System.Windows.Forms.DataGridViewCellStyle();
             this.dgvArticulos = new System.Windows.Forms.DataGridView();
             this.textBoxCodArticulo = new System.Windows.Forms.TextBox();
             this.textBoxNombre = new System.Windows.Forms.TextBox();
@@ -81,29 +81,29 @@
             this.dgvArticulos.AllowUserToDeleteRows = false;
             this.dgvArticulos.AllowUserToResizeColumns = false;
             this.dgvArticulos.AllowUserToResizeRows = false;
-            dataGridViewCellStyle31.NullValue = null;
-            this.dgvArticulos.AlternatingRowsDefaultCellStyle = dataGridViewCellStyle31;
+            dataGridViewCellStyle1.NullValue = null;
+            this.dgvArticulos.AlternatingRowsDefaultCellStyle = dataGridViewCellStyle1;
             this.dgvArticulos.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.dgvArticulos.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.Fill;
             this.dgvArticulos.BackgroundColor = System.Drawing.Color.Teal;
-            dataGridViewCellStyle32.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
-            dataGridViewCellStyle32.BackColor = System.Drawing.SystemColors.Control;
-            dataGridViewCellStyle32.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            dataGridViewCellStyle32.ForeColor = System.Drawing.SystemColors.WindowText;
-            dataGridViewCellStyle32.SelectionBackColor = System.Drawing.SystemColors.Highlight;
-            dataGridViewCellStyle32.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
-            dataGridViewCellStyle32.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
-            this.dgvArticulos.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle32;
+            dataGridViewCellStyle2.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle2.BackColor = System.Drawing.SystemColors.Control;
+            dataGridViewCellStyle2.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            dataGridViewCellStyle2.ForeColor = System.Drawing.SystemColors.WindowText;
+            dataGridViewCellStyle2.SelectionBackColor = System.Drawing.SystemColors.Highlight;
+            dataGridViewCellStyle2.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
+            dataGridViewCellStyle2.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
+            this.dgvArticulos.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle2;
             this.dgvArticulos.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            dataGridViewCellStyle33.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
-            dataGridViewCellStyle33.BackColor = System.Drawing.SystemColors.Window;
-            dataGridViewCellStyle33.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            dataGridViewCellStyle33.ForeColor = System.Drawing.SystemColors.ControlText;
-            dataGridViewCellStyle33.NullValue = null;
-            dataGridViewCellStyle33.SelectionBackColor = System.Drawing.SystemColors.Highlight;
-            dataGridViewCellStyle33.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
-            dataGridViewCellStyle33.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
-            this.dgvArticulos.DefaultCellStyle = dataGridViewCellStyle33;
+            dataGridViewCellStyle3.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle3.BackColor = System.Drawing.SystemColors.Window;
+            dataGridViewCellStyle3.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            dataGridViewCellStyle3.ForeColor = System.Drawing.SystemColors.ControlText;
+            dataGridViewCellStyle3.NullValue = null;
+            dataGridViewCellStyle3.SelectionBackColor = System.Drawing.SystemColors.Highlight;
+            dataGridViewCellStyle3.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
+            dataGridViewCellStyle3.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
+            this.dgvArticulos.DefaultCellStyle = dataGridViewCellStyle3;
             this.dgvArticulos.Location = new System.Drawing.Point(17, 13);
             this.dgvArticulos.MultiSelect = false;
             this.dgvArticulos.Name = "dgvArticulos";
@@ -429,7 +429,7 @@
             // 
             this.AtajoAgregar.Name = "AtajoAgregar";
             this.AtajoAgregar.ShortcutKeys = ((System.Windows.Forms.Keys)((System.Windows.Forms.Keys.Alt | System.Windows.Forms.Keys.D1)));
-            this.AtajoAgregar.Size = new System.Drawing.Size(224, 26);
+            this.AtajoAgregar.Size = new System.Drawing.Size(214, 26);
             this.AtajoAgregar.Text = "Agregar";
             this.AtajoAgregar.Click += new System.EventHandler(this.AtajoAgregar_Click);
             // 
@@ -437,7 +437,7 @@
             // 
             this.AtajoModificar.Name = "AtajoModificar";
             this.AtajoModificar.ShortcutKeys = ((System.Windows.Forms.Keys)((System.Windows.Forms.Keys.Alt | System.Windows.Forms.Keys.D2)));
-            this.AtajoModificar.Size = new System.Drawing.Size(224, 26);
+            this.AtajoModificar.Size = new System.Drawing.Size(214, 26);
             this.AtajoModificar.Text = "Modificar";
             this.AtajoModificar.Click += new System.EventHandler(this.AtajoModificar_Click);
             // 
@@ -445,7 +445,7 @@
             // 
             this.AtajoEliminar.Name = "AtajoEliminar";
             this.AtajoEliminar.ShortcutKeys = ((System.Windows.Forms.Keys)((System.Windows.Forms.Keys.Alt | System.Windows.Forms.Keys.D3)));
-            this.AtajoEliminar.Size = new System.Drawing.Size(224, 26);
+            this.AtajoEliminar.Size = new System.Drawing.Size(214, 26);
             this.AtajoEliminar.Text = "Eliminar";
             this.AtajoEliminar.Click += new System.EventHandler(this.AtajoEliminar_Click);
             // 
@@ -453,7 +453,7 @@
             // 
             this.AtajoVerDetalle.Name = "AtajoVerDetalle";
             this.AtajoVerDetalle.ShortcutKeys = ((System.Windows.Forms.Keys)((System.Windows.Forms.Keys.Alt | System.Windows.Forms.Keys.D)));
-            this.AtajoVerDetalle.Size = new System.Drawing.Size(224, 26);
+            this.AtajoVerDetalle.Size = new System.Drawing.Size(214, 26);
             this.AtajoVerDetalle.Text = "Ver Detalle";
             this.AtajoVerDetalle.Click += new System.EventHandler(this.AtajoVerDetalle_Click);
             // 

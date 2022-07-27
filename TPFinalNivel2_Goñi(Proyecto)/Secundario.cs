@@ -121,7 +121,8 @@ namespace TPFinalNivel2_Goñi_Proyecto_
                 pictureBoxImagen.Load("https://www.agora-gallery.com/advice/wp-content/uploads/2015/10/image-placeholder.png");
             }
         }
-        
+
+       
 
         //HELPER-FIN----------------------------------------------------------
         public Secundario()
@@ -142,6 +143,7 @@ namespace TPFinalNivel2_Goñi_Proyecto_
         {
             ConfigDesplegables();
             DatosAModificar();
+
         }
 
 
@@ -208,5 +210,7 @@ namespace TPFinalNivel2_Goñi_Proyecto_
                 this.Close();
             }
         }
+
+        
     }
 }
