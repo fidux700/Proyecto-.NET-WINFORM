@@ -21,7 +21,7 @@ PARA REALIZAR LA CONEXION CON LA BASE DE DATOS:
 ![image](https://user-images.githubusercontent.com/71730230/181392335-5610d2cc-85d1-4d62-9ca2-bddf41468f39.png)
 
 
-5- Por ultimo para que funcione verifique que los datos que se encuentran en esa linea de codigo sean correspondidos con los suyos
+5- Por ultimo para que funcione verifique que los datos que se encuentran en esa linea de codigo sean correspondidos con los suyos.
 Deberá modificar si o si la credencial de usuario, ya que los establecidos son propios de mi login.
 ![image](https://user-images.githubusercontent.com/71730230/181392482-df443de9-781d-4409-80f2-1a6fa020b131.png)
 
