@@ -6,6 +6,7 @@ Tecnologias usadas: C#, .NET, Winform.NetFramework
 
 PARA REALIZAR LA CONEXION CON LA BASE DE DATOS:
 *Aclaracion importante: Para poder ejecutar el programa se debe tener el SQL Server instalado.
+
 1- Primero debe arrastrar el archivo sql que se encuentra en la carpeta "ScriptSQL" hacia el SQL Server, ejecutar el mismo script con F5 dentro del comando de SQL.
 
 2- Una vez ejecutado, deben dirigirse a la ruta de acceso y hacer click derecho - Refresh (para poder actualizar los datos y se muestre en pantalla la base recientemente agregada)
