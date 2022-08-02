@@ -1,4 +1,4 @@
-# Proyecto1-.NET-WINFORM-
+# Proyecto-.NET-WINFORM-
 
 Proyecto que simula un catalogo de articulos que se podria utilizar para cualquier tipo de industria.
 
