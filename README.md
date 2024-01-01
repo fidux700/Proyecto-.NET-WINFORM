@@ -1,4 +1,4 @@
-# Proyecto-.NET-WINFORM-
+# Proyecto-.NET-WINFORM- (Aplicación de escritorio / Catálogo stock de productos)
 
 Proyecto que simula un catalogo de articulos que se podria utilizar para cualquier tipo de industria.
 
@@ -24,6 +24,9 @@ PARA REALIZAR LA CONEXION CON LA BASE DE DATOS:
 5- Por ultimo para que funcione verifique que los datos que se encuentran en esa linea de codigo sean correspondidos con los suyos.
 Deberá modificar si o si la credencial de usuario, ya que los establecidos son propios de mi login.
 ![image](https://user-images.githubusercontent.com/71730230/181392482-df443de9-781d-4409-80f2-1a6fa020b131.png)
+
+![image](https://github.com/fidux700/Proyecto-.NET-WINFORM/assets/71730230/e9824745-e578-4557-aeb5-3e29bdaf0b6b)
+
 
 
 Espero que haya podido tener exito con la conexion, de igual manera a continuacion le comparto documentacion original del connectionstring.
